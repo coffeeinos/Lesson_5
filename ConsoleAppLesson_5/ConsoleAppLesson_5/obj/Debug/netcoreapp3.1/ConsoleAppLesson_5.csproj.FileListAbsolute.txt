@@ -1,0 +1,13 @@
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_5\ConsoleAppLesson_5\bin\Debug\netcoreapp3.1\ConsoleAppLesson_5.exe
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_5\ConsoleAppLesson_5\bin\Debug\netcoreapp3.1\ConsoleAppLesson_5.deps.json
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_5\ConsoleAppLesson_5\bin\Debug\netcoreapp3.1\ConsoleAppLesson_5.runtimeconfig.json
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_5\ConsoleAppLesson_5\bin\Debug\netcoreapp3.1\ConsoleAppLesson_5.runtimeconfig.dev.json
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_5\ConsoleAppLesson_5\bin\Debug\netcoreapp3.1\ConsoleAppLesson_5.dll
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_5\ConsoleAppLesson_5\bin\Debug\netcoreapp3.1\ConsoleAppLesson_5.pdb
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_5\ConsoleAppLesson_5\obj\Debug\netcoreapp3.1\ConsoleAppLesson_5.csprojAssemblyReference.cache
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_5\ConsoleAppLesson_5\obj\Debug\netcoreapp3.1\ConsoleAppLesson_5.AssemblyInfoInputs.cache
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_5\ConsoleAppLesson_5\obj\Debug\netcoreapp3.1\ConsoleAppLesson_5.AssemblyInfo.cs
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_5\ConsoleAppLesson_5\obj\Debug\netcoreapp3.1\ConsoleAppLesson_5.csproj.CoreCompileInputs.cache
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_5\ConsoleAppLesson_5\obj\Debug\netcoreapp3.1\ConsoleAppLesson_5.dll
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_5\ConsoleAppLesson_5\obj\Debug\netcoreapp3.1\ConsoleAppLesson_5.pdb
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_5\ConsoleAppLesson_5\obj\Debug\netcoreapp3.1\ConsoleAppLesson_5.genruntimeconfig.cache
